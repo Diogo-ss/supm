@@ -1,0 +1,11 @@
+BasedOnStyle: WebKit
+IndentCaseLabels: 'false'
+IndentWidth: '2'
+PointerAlignment: Right
+SpaceBeforeParens: NonEmptyParentheses
+SpaceBeforeRangeBasedForLoopColon: 'false'
+SpaceInEmptyParentheses: 'false'
+SpacesInParentheses: 'false'
+SpacesInSquareBrackets: 'false'
+TabWidth: '2'
+UseTab: Never
